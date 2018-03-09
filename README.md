@@ -21,7 +21,7 @@
 
 ### 其它
 
-主要代码在SDK-gcc下的route.cpp文件，其他为官方提供的。
+主要代码在SDK-gcc下的cdn文件，其他为官方提供的。
 
 SDK-gcc目录下为c/c++版本的SDK，具体使用方法参看该路径下的readme。
-case0目录下为一套测试例，其中topo.csv为图的信息文件，demand.csv为路径信息文件。
+
